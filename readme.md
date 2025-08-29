@@ -39,8 +39,6 @@ Aşağıda üzerinde aktif olarak çalıştığım bazı projeler yer alıyor:
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | 🏨 **[OkutYe.com](https://okutye.com)** | QR menüden çok daha fazlası: Garson, mutfak, kasa ve yönetici panelleriyle uçtan uca bir restoran yönetim platformu. Tema pazarı ve POS entegrasyonu hedefleniyor.   | ✅ **TRL 6 Prototip** <br> 🤝 **4 Pilot Anlaşması** <br> 🏆 **Microsoft Startups Desteği** | `Python`, `Flask`, `React`, `Tailwind`  |
 | 🎓 **BursAtlas** | Yurt dışı eğitim danışmanlığı süreçlerini standartlaştıran, başvuru ve burs süreçlerini yöneten bir platform.                                                             | 📈 **Operasyonel** | `Süreç Otomasyonu`                      |
-| 💈 **UNI CUT** | Eskişehir'deki premium berberler için geliştirilmiş online randevu, personel takvimi ve kuyruk yönetim sistemi.                                                       | 🏃‍♂️ **Aktif Geliştirme** | `Python`, `Flask`, `SQLite3`, `Tailwind`|
-| 🎨 **Diğer Çalışmalar** | OkutYe POS Bridge için UI/UX tasarımları, Zoundpad (Python soundboard), Lens Studio arayüz deneyleri.                                                                  | 🔬 **Deneysel** | `UI/UX`, `Python`                       |
 
 ---
 
@@ -66,7 +64,6 @@ Projelerimi hayata geçirirken kullandığım teknolojiler:
 
 - **OkutYe.com** için POS entegrasyonunu tamamlamak ve tema marketini bir gelir modeline dönüştürmek.
 - Pilot işletmelerden gelen geri bildirimlerle **OkutYe**'nin kullanıcı deneyimini mükemmelleştirmek.
-- **UNI CUT**'a tekrar eden rezervasyonlar ve içgörü raporları gibi premium özellikler eklemek.
 - **ZiksthemW** kişisel sitemde daha düzenli olarak proje güncellemeleri ve blog yazıları paylaşmak.
 
 ---
