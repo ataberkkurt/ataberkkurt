@@ -19,7 +19,6 @@ Ben, Türkiye'de yaşayan, **ürün ve yazılım odaklı** bir girişimciyim. Fi
 > ✨ **Motto:** "Problem → Hipotez → Hızlı Prototip → Sahada Doğrula → İterasyon"
 
 - 💡 Ürün geliştirme, UI/UX ve performanslı web uygulamaları ana odak alanlarım.
-- 🚀 Kendi markam **ZiksthemW** altında projelerimi geliştiriyor ve deneyimlerimi paylaşıyorum.
 - 💬 Türkçe (ana dil) ve İngilizce (C1) dillerinde iletişim kuruyorum.
 
 ---
