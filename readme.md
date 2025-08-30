@@ -4,14 +4,8 @@
     Selam, ben Ataberk Kurt! 👋
   </h1>
   <div align="center">
-    <a href="[LinkedIn Profil Linkin]" target="_blank">
+    <a href="https://www.linkedin.com/in/atadev/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://ziksthemw.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-ZiksthemW-f27141?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website"/>
-    </a>
-    <a href="[Twitter/X Profil Linkin (varsa)]" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
     </a>
   </div>
 </div>
